@@ -217,9 +217,9 @@ function openit(){
 #####################################################
 
 alias reload='cd && . .bashrc && cd -'
-alias setproxy4='export http_proxy="http://iit2014158:Aa@123456@172.31.1.4:8080" && export https_proxy="https://iit2014158:Aa@123456@172.31.1.4:8080"'
-alias setproxy3='export http_proxy="http://iit2014158:Aa@123456@172.31.1.3:8080" && export https_proxy="https://iit2014158:Aa@123456@172.31.1.3:8080"'
-alias setproxy6='export http_proxy="http://iit2014158:Aa@123456@172.31.1.6:8080" && export https_proxy="https://iit2014158:Aa@123456@172.31.1.6:8080"'
+alias setproxy4='export http_proxy="http://172.31.1.4:8080" && export https_proxy="https://172.31.1.4:8080"'
+alias setproxy3='export http_proxy="http://172.31.1.3:8080" && export https_proxy="https://172.31.1.3:8080"'
+alias setproxy6='export http_proxy="http://172.31.1.6:8080" && export https_proxy="https://172.31.1.6:8080"'
 alias unsetproxy='export http_proxy="" && export https_proxy=""'
 
 
